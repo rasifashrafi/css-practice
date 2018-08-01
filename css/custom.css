@@ -1,0 +1,85 @@
+/* q1 */
+.logo{
+    color: red;
+}
+/* q2 */
+.menu-items a:link{
+    color: green;
+}
+/* q3 */
+.menu-items a:visited{
+    color: #444;
+}
+/* q4 */
+.card p{
+    color: white;
+}
+/* q5 */
+.card button{
+    background-color: light green;
+    color: white;
+}
+/* q6 */
+article p::first-letter{
+    margin-left: 30px;
+}
+/* q7 */
+.blog{
+    background-color: #666;
+    color: #cff;
+}
+/* q8 */
+figure:hover {
+box-shadow: 5px 10px red;
+}
+/* q9 */
+figcaption{
+    padding: 8px;
+}
+/* q11 */
+article.blog-article{
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+max-width: 800px;
+}
+/* q12 */
+article.blog-article{
+    text-align: center;
+}
+/* q13 */
+h2.section-header{
+text-transform: uppercase;
+}
+/* q14 */
+.form-input{
+    display: block;
+}
+/* q15 */
+.form-input{
+    margin: 10px;
+}
+/* q16 */
+.form-input{
+    padding: 1vw;
+}
+/* q17 */
+footer{
+    background-color: rgb(169 169 169);
+    color: #ffa500;
+}
+/* q18 */
+form-input:focus{
+    border-width: 4px;
+}
+/* q19 */
+section h2::before{
+    content: ">";
+    margin-right: 4px;
+}
+/* q20 */
+input[type="radio"]{
+    margin-left: 20px;
+    margin-right: 5px;
+
+}
